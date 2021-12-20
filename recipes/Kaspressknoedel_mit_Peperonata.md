@@ -3,7 +3,7 @@
 *Author*: Sandro   
 *Personen*: 4   
 *Zubereitungszeit*: 30 - 45 min   
-*Back-/Kochzeit*: 20 min
+*Back-/Kochzeit*: 20 min  
 *Credits*: Alfons Schubeck, Bayerischer Rundfunk 
 
 --------------------
